@@ -11,7 +11,7 @@ function Footer() {
           >
            
           </Link>
-          <span className="text-muted">© 2023 GoFood, Inc</span>
+          <span className="text-muted">© 2025 GoFood, Inc</span>
         </div>
 
         <ul className="nav col-md-4 justify-content-end list-unstyled d-flex"></ul>
